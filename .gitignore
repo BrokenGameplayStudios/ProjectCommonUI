@@ -73,3 +73,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Obsidian Related Ignores
+.obsidian/workspace*
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/app.json
+.trash/
+*.DS_Store
+conflict-files-obsidian-git.md
