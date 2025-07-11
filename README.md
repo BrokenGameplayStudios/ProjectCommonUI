@@ -45,6 +45,8 @@ Git is required for cloning and syncing the repo. These steps are for Windows 11
         
         ```text
         git config --global user.name "Your Full Name"
+        ```
+        ```text
         git config --global user.email "your.email@example.com"
         ```
         
@@ -70,8 +72,7 @@ If SSH fails, use HTTPS with a Personal Access Token (GitHub > Settings > Develo
 - Create a local folder (e.g., F:\Git\ProjectCommonUI): mkdir F:\Git\ProjectCommonUI.
 - Clone:
     
-    ```text
-    cd F:\Git
+    ```text    
     git clone git@github.com:BrokenGameplayStudios/ProjectCommonUI.git ProjectCommonUI
     ```
     
