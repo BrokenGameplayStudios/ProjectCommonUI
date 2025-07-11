@@ -74,11 +74,18 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Obsidian Related Ignores
+# Obsidian configs to ignore (user-specific)
+.obsidian/
+!.obsidian/community-plugins.json  # Whitelist if sharing plugin list
+!.obsidian/core-plugins.json       # Optional whitelist
+
+# Other common Obsidian ignores
 .obsidian/workspace*
 .obsidian/appearance.json
 .obsidian/hotkeys.json
 .obsidian/app.json
+.obsidian/graph.json
+.obsidian/plugins/*  # Ignore plugin data folders
 .trash/
 *.DS_Store
 conflict-files-obsidian-git.md
