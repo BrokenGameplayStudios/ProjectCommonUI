@@ -2,8 +2,10 @@
 This is a starter project template for building user interfaces and menus using the Common UI framework in Unreal Engine 5.6. Created by Broken Gameplay Studios, it provides basic setups, examples, and reusable assets to help developers get started with cross-platform UI elements, navigation, and input handling. The project is designed to be modular and extensible, but it's a work in progress—expect ongoing updates and potential bugs as we refine it.
 
 ## Requirements
+
 ![](Docs/attachments/README-20250711T105120.webp)
 ![](Docs/attachments/README-20250711T105239.webp)
+
 - Unreal Engine 5.6 (or compatible versions; tested on 5.6).
 - Common UI plugin: This must be enabled in your project settings (Edit > Plugins > Search for "Common UI" > Enable and restart the editor).
 - If migrating assets to another project, ensure the Common UI plugin is enabled there first to avoid errors with widgets, blueprints, or input bindings.
