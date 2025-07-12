@@ -3,8 +3,8 @@ This is a starter project template for building user interfaces and menus using 
 
 ## Requirements
 
-![](README-20250711T105120.webp)
-![](README-20250711T105239.webp)
+![](/Docs/attachments/README-20250711T105120.webp)
+![](Docs/attachments/README-20250711T105239.webp)
 
 - Unreal Engine 5.6 (or compatible versions; tested on 5.6).
 - Common UI plugin: This must be enabled in your project settings (Edit > Plugins > Search for "Common UI" > Enable and restart the editor).
