@@ -7,7 +7,9 @@ A public starter project and documentation for building menus with Common UI in 
 
 ## Obsidian Vault / Unreal Engine
 
-This guide covers everything needed to set up the ProjectCommonUI repository on a new computer, including installing Obsidian, Git, cloning the repo, configuring the Obsidian Git plugin for automatic syncing, and working with the Unreal Engine 5.6 project inside it. It's designed for collaborators (like your friends) to get up and running quickly. The repo is public, so anyone can fork or contribute, but for discussions or coordinated changes, join the Broken Gameplay Studios Discord (invite: [https://discord.gg/JEKCW9h](https://discord.gg/JEKCW9h)).The repo structure includes:
+This guide covers everything needed to set up the ProjectCommonUI repository on a new computer, including installing Obsidian, Git, cloning the repo, configuring the Obsidian Git plugin for automatic syncing, and working with the Unreal Engine 5.6 project inside it. It's designed for collaborators (like your friends) to get up and running quickly. The repo is public, so anyone can fork or contribute, but for discussions or coordinated changes, join the Broken Gameplay Studios Discord (invite: [https://discord.gg/JEKCW9h](https://discord.gg/JEKCW9h)).
+
+The repo structure includes:
 
 - `/Docs/`: Obsidian Markdown notes for documentation.
 - `/attachments/`: Images and attachments for docs (use relative paths for cross-compatibility).
