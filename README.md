@@ -12,7 +12,7 @@ This guide covers everything needed to set up the ProjectCommonUI repository on 
 The repo structure includes:
 
 - `/Docs/`: Obsidian Markdown notes for documentation.
-- `/attachments/`: Images and attachments for docs (use relative paths for cross-compatibility).
+- `/Docs/attachments/`: Images and attachments for docs (use relative paths for cross-compatibility).
 - `/CommonUIProject_UE5_6/`: The UE5.6 starter project folder with Common UI assets.
 - Root files: README.md, LICENSE, .gitignore.
 
